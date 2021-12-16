@@ -1,1 +1,1 @@
-# Road-demage-detection-streamlit-app
+# Road-damage-detection-streamlit-app
